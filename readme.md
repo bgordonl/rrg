@@ -21,14 +21,14 @@ How high is Double Arch? Use ArcGIS Pro to measure its height
 
 ### Bird's-eye view animation
 
-* [video](#)
+* [video](https://youtu.be/G9Vb8BV5sQY)
 
 *(Source: one video made in lab 7)*
 
 ### Maps 
 
 * [Base map of popular Red River Gorge arches](basemap/rrg.pdf) *(lab 5)*
-* [Cliffs over 40 feet](#) *(lab 7)*
+* [Cliffs over 40 feet](Elevation/DoubleARch.pdf) *(lab 7)*
 
 ### Web pages 
 
